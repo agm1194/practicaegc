@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 texto de prueba pruebecita
+=======
+texto de prueba
+prueba nuevarama
+>>>>>>> nuevarama

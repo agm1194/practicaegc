@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-texto de prueba pruebecita
-=======
-texto de prueba
-prueba nuevarama
->>>>>>> nuevarama
+texto de prueba pruebecita y texto de prueba prueba nuevarama
+

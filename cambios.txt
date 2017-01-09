@@ -1,3 +1,2 @@
 ﻿cambios realizados en el repositorio y hechos commit
 añadido pusheando cambios
-este cambio no se deberia haber pusheado
